@@ -86,7 +86,7 @@ module.exports =
 /*************** fix bug: it seems automation state was forgotten ? *************/
         if (oldValue === 'using' || oldValue === 'automation') {
 /******************************************************************************/
-          FatalMessageService.open($scope.device, false)
+          // FatalMessageService.open($scope.device, false)
         }
       }
     }, true)

@@ -3969,6 +3969,13 @@
   "resolved" "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz"
   "version" "2.0.6"
 
+"fastfall@^1.2.3":
+  "integrity" "sha512-KH6p+Z8AKPXnmA7+Iz2Lh8ARCMr+8WNPVludm1LGkZoD2MjY6LVnRMtTKhkdzI+jr0RzQWXKzKyBJm1zoHEL4Q=="
+  "resolved" "https://registry.npmjs.org/fastfall/-/fastfall-1.5.1.tgz"
+  "version" "1.5.1"
+  dependencies:
+    "reusify" "^1.0.0"
+
 "fastparse@^1.1.1", "fastparse@^1.1.2":
   "integrity" "sha512-483XLLxTVIwWK3QTrMGRqUfUpoOs/0hbQrl2oz4J0pAcm3A3bu84wxTFqGqkJzewCLdME38xJLJAxBABfQT8sQ=="
   "resolved" "https://registry.npmjs.org/fastparse/-/fastparse-1.1.2.tgz"
@@ -8520,6 +8527,13 @@
   "resolved" "https://registry.npmjs.org/pause/-/pause-0.0.1.tgz"
   "version" "0.0.1"
 
+"pbkdf2-password@^1.2.1":
+  "integrity" "sha512-I6ZiUi82uhYN47lOzi8P7O69e70LRopgS4TIkq0ecDAPHrlxABWOHxLEsTzCuogkxTofFJDj0eEbOALgrrxhKg=="
+  "resolved" "https://registry.npmjs.org/pbkdf2-password/-/pbkdf2-password-1.2.1.tgz"
+  "version" "1.2.1"
+  dependencies:
+    "fastfall" "^1.2.3"
+
 "pbkdf2@^3.0.3":
   "integrity" "sha512-iuh7L6jA7JEGu2WxDwtQP1ddOpaJNC4KlDEFfdQajSGgGPNi4OyDc2R7QnbY2bR9QjBVGwgvTdNJZoE7RaxUMA=="
   "resolved" "https://registry.npmjs.org/pbkdf2/-/pbkdf2-3.1.2.tgz"
@@ -10012,6 +10026,11 @@
   "integrity" "sha1-b2l+UKDk3cjI9/tUeptg3q1DZ40= sha512-bkzdIZ5Xyim12j0jq6CQAHpfdsa2VqieWF6eN8vT2MXxCxLAZhgVUyu5EEMevJyXML+XWTxVbZ7mLaKx5F/DZw=="
   "resolved" "https://registry.npmjs.org/retry/-/retry-0.9.0.tgz"
   "version" "0.9.0"
+
+"reusify@^1.0.0":
+  "integrity" "sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw=="
+  "resolved" "https://registry.npmjs.org/reusify/-/reusify-1.0.4.tgz"
+  "version" "1.0.4"
 
 "right-align@^0.1.1":
   "integrity" "sha1-YTObci/mo1FWiSENJOFMlhSGE+8= sha512-yqINtL/G7vs2v+dFIZmFUDbnVyFUJFKd6gK22Kgo6R4jfJGFtisKyncWDDULgjfqf4ASQuIQyjJ7XZ+3aWpsAg=="
