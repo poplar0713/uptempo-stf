@@ -135,7 +135,7 @@ device-screen.rotated.letterboxed canvas.screen {
 device-screen .finger {
   position: absolute;
   border-radius: 50%;
-  background: #7c7c7c;
+  background: #99F6FF;
   opacity: 0.5;
   width: 8mm;
   height: 8mm;
@@ -145,7 +145,7 @@ device-screen .finger {
   display: none;
   border-style: solid;
   border-width: 1px;
-  border-color: #464646;
+  border-color: #14B8A6;
 }
 
 device-screen .finger.active {
@@ -200,7 +200,7 @@ device-screen input {
 
 /* VNC buttons */
 .stf-vnc-bottom .btn-primary:hover {
-  background: rgba(255, 255, 255, 1.0);
+  background: #fff;
   border: none;
 }
 

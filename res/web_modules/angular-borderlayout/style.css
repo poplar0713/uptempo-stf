@@ -1,14 +1,14 @@
 .fa-pane-handle {
-  background: rgba(153, 153, 153, 0.5);
+  background: #EFF4E7;
 }
 
 .fa-pane:hover > .fa-pane-handle > .fa-pane-toggle {
-  background: rgba(29, 132, 223, 0.8);
+  background: #5EEAD4;
 }
 
 .fa-pane-resizing > .fa-pane-handle,
 .fa-pane-handle:hover {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: #5EEAD4;
 }
 
 .fa-pane-scroller {
@@ -20,7 +20,7 @@
 }
 
 .fa-pane-constrained.fa-pane-resizing > .fa-pane-overlay {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: #EFF4E7;
 }
 
 /* TODO: CHECK THIS */

@@ -20,7 +20,7 @@
 
 .stf-upload .drop-area {
   text-align: center;
-  color: #b7b7b7;
+  color: #14B8A6;
   padding-top: 10px;
   border: 2px transparent dashed;
   border-radius: 2px;
@@ -28,7 +28,7 @@
 }
 
 .stf-upload .dragover {
-  border-color: #157afb !important;
+  border-color: #99F6FF !important;
 }
 
 .stf-upload .upload-status {
