@@ -1,7 +1,7 @@
 module.exports = function AppStateProvider() {
   var values = {
     config: {
-      websocketUrl: 'http://up-tempo.ktds.com'
+      websocketUrl: ''
     },
     user: {
       settings: {}
